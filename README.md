@@ -44,5 +44,4 @@ TO_PURCHASE=0xe9e7cea3dedca5984780bafc599bd69add087d56
 
 6. run with <code>npm run snipe </code>.
 
-7. Wait the bot do his job, if success, you will see like this picture. <br>
-8. Close bot with <code>ctrl + C</code>
+7. Close bot with <code>ctrl + C</code>
